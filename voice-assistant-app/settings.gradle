@@ -1,0 +1,2 @@
+rootProject.name = "VoiceAssistantApp"
+include ':app'
