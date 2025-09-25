@@ -1,6 +1,0 @@
-// Add this to app/build.gradle if you want to inject the OPENAI_API_KEY from gradle.properties:
-// android {
-//   defaultConfig {
-//     buildConfigField "String", "OPENAI_API_KEY", ""${OPENAI_API_KEY}""
-//   }
-// }
